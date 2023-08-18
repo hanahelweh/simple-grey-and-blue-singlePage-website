@@ -1,0 +1,33 @@
+<style>
+    body {
+        color: rgba(255, 255, 255, .87);
+        background-color: #242424;
+    }
+</style>
+<div class="hv100">
+    <div class="ph50">
+        <div class="pv10 r" style="height: 50px;">
+            <grid_nm gap10>
+                <div class="vm">
+                    <a href="https://www.npmjs.com/package/@lmjs/cli">
+                        <span data-icon="mdi:npm" class="iconify fs40 cw"></span>
+                    </a>
+                </div>
+                <div class="vm">
+                    <a href="https://github.com/bea-technology/lmjs-cli">
+                        <span data-icon="mdi:github" class="iconify fs34 cw"></span>
+                    </a>
+                </div>
+            </grid_nm>
+        </div>
+    </div>
+    <div class="cc sq cov" style="background-image: url('/images/lumenjs.svg'); height: 250px;"></div>
+</div>
+
+<settings>
+    {
+    hasFooter: false,
+    hasHeader: false,
+    hasNav: false
+    }
+</settings>
